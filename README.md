@@ -8,3 +8,6 @@ interacts with client-side app and local .NET server app saves shopping cart ite
 Inventory created by deserializing grocery items saved on disk, and receipt saves to disk upon checking out
 
 Source Code for server side componenet of project [Here](https://github.com/Gregbgarman/Grocery-.net-app-API)
+
+<img src="https://github.com/Gregbgarman/Grocery-.NET-app/blob/master/.netapp.gif" width=500>
+<img src="https://github.com/Gregbgarman/Grocery-.NET-app/blob/master/apiupdate.PNG" width=500>
