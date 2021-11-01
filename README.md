@@ -7,7 +7,7 @@ Desktop application simulates a user shopping experience where changes constantl
 interacts with client-side app and local .NET server app saves shopping cart items on RESTful API. Grocery
 Inventory created by deserializing grocery items saved on disk, and receipt saves to disk upon checking out
 
-Source Code for server side componenet of project [Here](https://github.com/Gregbgarman/Grocery-.net-app-API)
+[Source Code for server side component of project ](https://github.com/Gregbgarman/Grocery-.net-app-API)
 
 <img src="https://github.com/Gregbgarman/Grocery-.NET-app/blob/master/.netapp.gif" width=500>
 <img src="https://github.com/Gregbgarman/Grocery-.NET-app/blob/master/apiupdate.PNG" width=500>
